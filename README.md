@@ -7,7 +7,7 @@ products:
 description: "This Node.js application is for use in demonstrating scenarios for Azure Container Registry Tasks."
 urlFragment: acr-build-helloworld-node
 ---
-## Updated for auto deployment 
+
 
 # ACR Build Hello World
 
